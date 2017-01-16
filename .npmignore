@@ -1,0 +1,10 @@
+.idea
+
+docs/
+test/
+
+timestore*.js
+timestore*.min.js
+
+npm-debug.log
+TODO_LIST
